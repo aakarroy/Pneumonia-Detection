@@ -86,7 +86,7 @@ Output: 1 (raw logit → Sigmoid → probability)
 
 | Prediction Metrics | Sample Predictions |
 |:---:|:---:|
-| ![Metrics](images\Prediction.png) | ![Predictions](images\Predictions-Metrics.png) |
+| ![Metrics](images/Prediction.png) | ![Predictions](images/Predictions-Metrics.png) |
 
 </div>
 
@@ -166,7 +166,7 @@ The application will open in your default browser (typically at `http://localhos
 
 <div align="center">
 
-![App UI](images\app-ui.png)
+![App UI](images/app-ui.png)
 
 </div>
 
