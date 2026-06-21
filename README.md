@@ -123,7 +123,7 @@ This project uses the **"A Primary Chest X-ray Dataset of Normal and Pneumonia C
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<aakarroy>/Pneumonia-Detection.git
+git clone https://github.com/aakarroy/Pneumonia-Detection.git
 cd Pneumonia-Detection
 
 # 2. Create and activate a virtual environment
