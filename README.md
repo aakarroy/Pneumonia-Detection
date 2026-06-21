@@ -2,7 +2,7 @@
 
 # AI-Powered Pneumonia Detection
 
-### Real-Time Chest X-Ray Classification Using a Custom Convolutional Neural Network
+### Real-Time Chest X-Ray Classification Using a Custom Convolutional Neural Network 
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -19,7 +19,15 @@ This project presents a **lightweight, end-to-end deep learning pipeline** for b
 
 The inference pipeline is deployed as an interactive web application using **Streamlit**, allowing users to upload a chest X-ray scan (JPG/PNG/JPEG) and receive an instant prediction with an associated confidence score. The entire workflow — from image preprocessing to model inference to result rendering — executes in real time.
 
----
+
+
+<div align="center">
+
+App Deployed at [link](https://ai-healthcare-pneumonia-detection.streamlit.app/)
+
+</div>
+
+
 
 ## Key Features
 
@@ -34,7 +42,6 @@ The inference pipeline is deployed as an interactive web application using **Str
 | **Optimized Threshold** | Inference threshold tuned via Precision-Recall curve analysis on the test set for optimal F1. |
 
 
----
 
 ## Model Architecture
 
@@ -156,7 +163,7 @@ pip install -r requirements.txt
 streamlit run streamlit.py
 ```
 
-The application will open in your default browser (typically at `http://localhost:8501` or see the deployed link at [link](https://ai-healthcare-pneumonia-detection.streamlit.app/)).
+The application will open in your default browser (typically at `http://localhost:8501`).
 
 ### How to Interact
 
