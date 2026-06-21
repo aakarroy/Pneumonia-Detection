@@ -42,4 +42,4 @@ for idx in test_images_normal:
     with Image.open(os.path.join(parent_folder,"Testing","normal",idx)) as img:
         print(img.size)
 
-"""found all images are of different sizes"""
+"""Found all images are of different sizes"""

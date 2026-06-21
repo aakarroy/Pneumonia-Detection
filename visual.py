@@ -101,7 +101,7 @@ model = nn.Sequential(
     nn.Flatten()
 ).to(device)
 
-model.load_state_dict(torch.load(r"D:\Aakar\Everything\ML\ai_healthcare\Pneumonia-Detection\models\Best-Pnemonia-03.pth",map_location=device))
+model.load_state_dict(torch.load(r"models\Best-Pnemonia-03.pth",map_location=device))
 
 model.eval()
 

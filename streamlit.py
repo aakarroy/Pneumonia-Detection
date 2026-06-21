@@ -6,7 +6,7 @@ from torchvision.transforms import Compose, Resize, ToTensor, Grayscale
 from PIL import Image
 from pathlib import Path
 
-MODEL_PATH = Path(r"D:\Aakar\Everything\ML\ai_healthcare\Pneumonia-Detection\models\Best-Pnemonia-03.pth")
+MODEL_PATH = Path(r"models\Best-Pnemonia-03.pth")
 MAX_FILE = 10
 ALLOWED_FILES = ["jpeg","png","jpg"]
 IMG_SIZE = (128,128)

@@ -156,7 +156,7 @@ pip install -r requirements.txt
 streamlit run streamlit.py
 ```
 
-The application will open in your default browser (typically at `http://localhost:8501` or see the deployed link at [link](https://example.com)).
+The application will open in your default browser (typically at `http://localhost:8501` or see the deployed link at [link](https://ai-healthcare-pneumonia-detection.streamlit.app/)).
 
 ### How to Interact
 
