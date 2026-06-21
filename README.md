@@ -91,7 +91,7 @@ Output: 1 (raw logit → Sigmoid → probability)
 
 <div align="center">
 
-| Prediction Metrics | Sample Predictions |
+| Sample Predictions | Prediction Metrics |
 |:---:|:---:|
 | ![Metrics](images/Prediction.png) | ![Predictions](images/Predictions-Metrics.png) |
 
