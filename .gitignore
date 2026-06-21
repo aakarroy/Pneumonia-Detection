@@ -1,0 +1,5 @@
+# Ignore the compressed zip dataset
+A Primary Chest X-ray Dataset of Normal and Pneumo.zip
+
+# Ignore the extracted dataset folder
+Dataset-of-Normal-and-Pneumo/
